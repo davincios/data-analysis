@@ -1,0 +1,345 @@
+species;area_seen;tail_length_mm;body_mass_g;sex
+Siricata;South Africa;181;550;MALE
+Siricata;South Africa;186;600;FEMALE
+Siricata;South Africa;195;50;FEMALE
+Siricata;South Africa;;;
+Siricata;South Africa;193;250;FEMALE
+Siricata;South Africa;190;450;MALE
+Siricata;South Africa;181;425;FEMALE
+Siricata;South Africa;195;1475;MALE
+Siricata;South Africa;193;275;
+Siricata;South Africa;190;1050;
+Siricata;South Africa;186;100;
+Siricata;South Africa;180;500;
+Siricata;South Africa;182;;FEMALE
+Siricata;South Africa;191;600;MALE
+Siricata;South Africa;198;1200;MALE
+Siricata;South Africa;185;500;FEMALE
+Siricata;South Africa;195;250;FEMALE
+Siricata;South Africa;197;1300;MALE
+Siricata;South Africa;184;125;FEMALE
+Siricata;South Africa;194;1000;MALE
+Siricata;Namibia;174;200;FEMALE
+Siricata;Namibia;180;400;MALE
+Siricata;Namibia;189;600;FEMALE
+Siricata;Namibia;185;750;MALE
+Siricata;Namibia;180;600;MALE
+Siricata;Namibia;187;600;FEMALE
+Siricata;Namibia;183;350;MALE
+Siricata;Namibia;187;;FEMALE
+Siricata;Namibia;172;;FEMALE
+Siricata;Namibia;180;750;MALE
+Siricata;Angola;178;50;FEMALE
+Siricata;Angola;178;700;MALE
+Siricata;Angola;188;100;FEMALE
+Siricata;Angola;184;700;MALE
+Siricata;Angola;195;125;FEMALE
+Siricata;Angola;196;950;MALE
+Siricata;Angola;190;750;MALE
+Siricata;Angola;180;350;FEMALE
+Siricata;Angola;181;100;FEMALE
+Siricata;Angola;184;1450;MALE
+Siricata;Angola;182;;FEMALE
+Siricata;Angola;195;700;MALE
+Siricata;Angola;186;;FEMALE
+Siricata;Angola;196;1200;MALE
+Siricata;Angola;185;;FEMALE
+Siricata;Angola;190;1400;MALE
+Siricata;Angola;182;225;MALE
+Siricata;Angola;179;;
+Siricata;Angola;190;250;FEMALE
+Siricata;Angola;191;950;MALE
+Siricata;Namibia;186;300;FEMALE
+Siricata;Namibia;188;1100;MALE
+Siricata;Namibia;190;250;FEMALE
+Siricata;Namibia;200;850;MALE
+Siricata;Namibia;187;;FEMALE
+Siricata;Namibia;191;500;MALE
+Siricata;Namibia;186;350;FEMALE
+Siricata;Namibia;193;600;MALE
+Siricata;Namibia;181;;FEMALE
+Siricata;Namibia;194;550;MALE
+Siricata;Namibia;185;;FEMALE
+Siricata;Namibia;195;1200;MALE
+Siricata;Namibia;185;400;FEMALE
+Siricata;Namibia;192;850;MALE
+Siricata;Namibia;184;;FEMALE
+Siricata;Namibia;192;750;MALE
+Siricata;Namibia;195;150;FEMALE
+Siricata;Namibia;188;900;MALE
+Siricata;South Africa;190;;FEMALE
+Siricata;South Africa;198;1250;MALE
+Siricata;South Africa;190;400;FEMALE
+Siricata;South Africa;190;700;MALE
+Siricata;South Africa;196;350;FEMALE
+Siricata;South Africa;197;950;MALE
+Siricata;South Africa;190;500;FEMALE
+Siricata;South Africa;195;1050;MALE
+Siricata;South Africa;191;500;FEMALE
+Siricata;South Africa;184;700;MALE
+Siricata;South Africa;187;350;FEMALE
+Siricata;South Africa;195;800;MALE
+Siricata;South Africa;189;0;FEMALE
+Siricata;South Africa;196;1500;MALE
+Siricata;South Africa;187;600;FEMALE
+Siricata;South Africa;193;1000;MALE
+Siricata;Angola;191;150;FEMALE
+Siricata;Angola;194;350;MALE
+Siricata;Angola;190;600;MALE
+Siricata;Angola;189;300;FEMALE
+Siricata;Angola;189;750;MALE
+Siricata;Angola;190;400;FEMALE
+Siricata;Angola;202;350;FEMALE
+Siricata;Angola;205;1100;MALE
+Siricata;Angola;185;200;FEMALE
+Siricata;Angola;186;1250;MALE
+Siricata;Angola;187;100;FEMALE
+Siricata;Angola;208;1100;MALE
+Siricata;Angola;190;500;FEMALE
+Siricata;Angola;196;1150;MALE
+Siricata;Angola;178;;FEMALE
+Siricata;Angola;192;900;MALE
+Siricata;Namibia;192;525;FEMALE
+Siricata;Namibia;203;1525;MALE
+Siricata;Namibia;183;;FEMALE
+Siricata;Namibia;190;1050;MALE
+Siricata;Namibia;193;;FEMALE
+Siricata;Namibia;184;350;MALE
+Siricata;Namibia;199;550;FEMALE
+Siricata;Namibia;190;700;MALE
+Siricata;Namibia;181;;FEMALE
+Siricata;Namibia;197;1575;MALE
+Siricata;Namibia;198;625;FEMALE
+Siricata;Namibia;191;1400;MALE
+Siricata;Namibia;193;0;FEMALE
+Siricata;Namibia;197;1075;MALE
+Siricata;Namibia;191;700;FEMALE
+Siricata;Namibia;196;875;MALE
+Siricata;South Africa;188;;FEMALE
+Siricata;South Africa;199;575;MALE
+Siricata;South Africa;189;150;FEMALE
+Siricata;South Africa;189;125;MALE
+Siricata;South Africa;187;;FEMALE
+Siricata;South Africa;198;300;MALE
+Siricata;South Africa;176;250;FEMALE
+Siricata;South Africa;202;675;MALE
+Siricata;South Africa;186;;FEMALE
+Siricata;South Africa;199;800;MALE
+Siricata;South Africa;191;75;FEMALE
+Siricata;South Africa;195;1100;MALE
+Siricata;South Africa;191;;FEMALE
+Siricata;South Africa;210;800;MALE
+Siricata;South Africa;190;125;FEMALE
+Siricata;South Africa;197;300;MALE
+Siricata;Angola;193;300;FEMALE
+Siricata;Angola;199;1275;MALE
+Siricata;Angola;187;225;FEMALE
+Siricata;Angola;190;700;MALE
+Siricata;Angola;191;;FEMALE
+Siricata;Angola;200;775;MALE
+Siricata;Angola;185;200;FEMALE
+Siricata;Angola;193;1050;MALE
+Siricata;Angola;193;200;FEMALE
+Siricata;Angola;187;275;MALE
+Siricata;Angola;188;;FEMALE
+Siricata;Angola;190;525;MALE
+Siricata;Angola;192;;FEMALE
+Siricata;Angola;185;450;MALE
+Siricata;Angola;190;1050;MALE
+Siricata;Angola;184;275;FEMALE
+Siricata;Angola;195;250;FEMALE
+Siricata;Angola;193;550;MALE
+Siricata;Angola;187;500;FEMALE
+Siricata;Angola;201;800;MALE
+Majoriae;Angola;192;300;FEMALE
+Majoriae;Angola;196;700;MALE
+Majoriae;Angola;193;450;MALE
+Majoriae;Angola;188;325;FEMALE
+Majoriae;Angola;197;525;MALE
+Majoriae;Angola;198;750;FEMALE
+Majoriae;Angola;178;50;FEMALE
+Majoriae;Angola;197;550;MALE
+Majoriae;Angola;195;950;FEMALE
+Majoriae;Angola;198;500;MALE
+Majoriae;Angola;193;600;FEMALE
+Majoriae;Angola;194;575;MALE
+Majoriae;Angola;185;500;FEMALE
+Majoriae;Angola;201;850;MALE
+Majoriae;Angola;190;375;FEMALE
+Majoriae;Angola;201;850;MALE
+Majoriae;Angola;197;100;MALE
+Majoriae;Angola;181;500;FEMALE
+Majoriae;Angola;190;250;FEMALE
+Majoriae;Angola;195;1200;MALE
+Majoriae;Angola;181;400;FEMALE
+Majoriae;Angola;191;200;MALE
+Majoriae;Angola;187;;FEMALE
+Majoriae;Angola;193;600;MALE
+Majoriae;Angola;195;100;FEMALE
+Majoriae;Angola;197;950;MALE
+Majoriae;Angola;200;200;FEMALE
+Majoriae;Angola;200;600;MALE
+Majoriae;Angola;191;500;FEMALE
+Majoriae;Angola;205;1350;MALE
+Majoriae;Angola;187;;FEMALE
+Majoriae;Angola;201;1100;MALE
+Majoriae;Angola;187;150;FEMALE
+Majoriae;Angola;203;900;MALE
+Majoriae;Angola;195;400;MALE
+Majoriae;Angola;199;700;FEMALE
+Majoriae;Angola;195;650;FEMALE
+Majoriae;Angola;210;1600;MALE
+Majoriae;Angola;192;;FEMALE
+Majoriae;Angola;205;1300;MALE
+Majoriae;Angola;210;750;MALE
+Majoriae;Angola;187;450;FEMALE
+Majoriae;Angola;196;350;MALE
+Majoriae;Angola;196;300;FEMALE
+Majoriae;Angola;196;475;FEMALE
+Majoriae;Angola;201;1250;MALE
+Majoriae;Angola;190;200;FEMALE
+Majoriae;Angola;212;1100;MALE
+Majoriae;Angola;187;50;MALE
+Majoriae;Angola;198;475;FEMALE
+Majoriae;Angola;199;125;FEMALE
+Majoriae;Angola;201;750;MALE
+Majoriae;Angola;193;400;FEMALE
+Majoriae;Angola;203;850;MALE
+Majoriae;Angola;187;150;FEMALE
+Majoriae;Angola;197;250;MALE
+Majoriae;Angola;191;50;FEMALE
+Majoriae;Angola;203;850;MALE
+Majoriae;Angola;202;600;MALE
+Majoriae;Angola;194;325;FEMALE
+Majoriae;Angola;206;750;MALE
+Majoriae;Angola;189;450;FEMALE
+Majoriae;Angola;195;450;FEMALE
+Majoriae;Angola;207;800;MALE
+Majoriae;Angola;202;200;FEMALE
+Majoriae;Angola;193;575;MALE
+Majoriae;Angola;210;900;MALE
+Majoriae;Angola;198;575;FEMALE
+Iona;Namibia;211;1300;FEMALE
+Iona;Namibia;230;2500;MALE
+Iona;Namibia;210;1250;FEMALE
+Iona;Namibia;218;2500;MALE
+Iona;Namibia;215;2200;MALE
+Iona;Namibia;210;1350;FEMALE
+Iona;Namibia;211;1600;FEMALE
+Iona;Namibia;219;2000;MALE
+Iona;Namibia;209;1200;FEMALE
+Iona;Namibia;215;1950;MALE
+Iona;Namibia;214;1450;FEMALE
+Iona;Namibia;216;2350;MALE
+Iona;Namibia;214;1450;FEMALE
+Iona;Namibia;213;2650;MALE
+Iona;Namibia;210;1000;FEMALE
+Iona;Namibia;217;2650;MALE
+Iona;Namibia;210;950;FEMALE
+Iona;Namibia;221;3100;MALE
+Iona;Namibia;209;1600;FEMALE
+Iona;Namibia;222;2150;MALE
+Iona;Namibia;218;2500;MALE
+Iona;Namibia;215;1800;FEMALE
+Iona;Namibia;213;1200;FEMALE
+Iona;Namibia;215;1850;MALE
+Iona;Namibia;215;1800;FEMALE
+Iona;Namibia;215;1900;MALE
+Iona;Namibia;216;900;
+Iona;Namibia;215;2450;MALE
+Iona;Namibia;210;1400;FEMALE
+Iona;Namibia;220;2350;MALE
+Iona;Namibia;222;2050;MALE
+Iona;Namibia;209;1500;FEMALE
+Iona;Namibia;207;1850;FEMALE
+Iona;Namibia;230;2850;MALE
+Iona;Namibia;220;1950;FEMALE
+Iona;Namibia;220;2200;MALE
+Iona;Namibia;213;1750;FEMALE
+Iona;Namibia;219;2050;MALE
+Iona;Namibia;208;1150;FEMALE
+Iona;Namibia;208;2150;MALE
+Iona;Namibia;208;750;FEMALE
+Iona;Namibia;225;2500;MALE
+Iona;Namibia;210;1100;FEMALE
+Iona;Namibia;216;1550;MALE
+Iona;Namibia;222;2350;MALE
+Iona;Namibia;217;1700;FEMALE
+Iona;Namibia;210;1000;FEMALE
+Iona;Namibia;225;2200;MALE
+Iona;Namibia;213;1900;FEMALE
+Iona;Namibia;215;2100;MALE
+Iona;Namibia;210;1650;FEMALE
+Iona;Namibia;220;2100;MALE
+Iona;Namibia;210;1200;FEMALE
+Iona;Namibia;225;1800;MALE
+Iona;Namibia;217;1700;FEMALE
+Iona;Namibia;220;1850;MALE
+Iona;Namibia;208;1100;FEMALE
+Iona;Namibia;220;1800;MALE
+Iona;Namibia;208;1250;FEMALE
+Iona;Namibia;224;2350;MALE
+Iona;Namibia;208;1000;FEMALE
+Iona;Namibia;221;2100;MALE
+Iona;Namibia;214;1200;FEMALE
+Iona;Namibia;231;2450;MALE
+Iona;Namibia;219;1500;FEMALE
+Iona;Namibia;230;2500;MALE
+Iona;Namibia;214;1450;
+Iona;Namibia;229;2600;MALE
+Iona;Namibia;220;1500;FEMALE
+Iona;Namibia;223;2350;MALE
+Iona;Namibia;216;1550;FEMALE
+Iona;Namibia;221;1800;MALE
+Iona;Namibia;221;1900;MALE
+Iona;Namibia;217;2000;FEMALE
+Iona;Namibia;216;1500;FEMALE
+Iona;Namibia;230;2600;MALE
+Iona;Namibia;209;1400;FEMALE
+Iona;Namibia;220;2800;MALE
+Iona;Namibia;215;1550;FEMALE
+Iona;Namibia;223;2750;MALE
+Iona;Namibia;212;1425;FEMALE
+Iona;Namibia;221;2250;MALE
+Iona;Namibia;212;1525;FEMALE
+Iona;Namibia;224;2150;MALE
+Iona;Namibia;212;1550;FEMALE
+Iona;Namibia;228;2400;MALE
+Iona;Namibia;218;1400;FEMALE
+Iona;Namibia;218;2100;MALE
+Iona;Namibia;212;1675;FEMALE
+Iona;Namibia;230;2350;MALE
+Iona;Namibia;218;1750;FEMALE
+Iona;Namibia;228;2200;MALE
+Iona;Namibia;212;1550;FEMALE
+Iona;Namibia;224;2450;MALE
+Iona;Namibia;214;1650;FEMALE
+Iona;Namibia;226;2000;MALE
+Iona;Namibia;216;1725;MALE
+Iona;Namibia;222;1675;FEMALE
+Iona;Namibia;203;1425;FEMALE
+Iona;Namibia;225;2050;MALE
+Iona;Namibia;219;1650;FEMALE
+Iona;Namibia;228;2400;MALE
+Iona;Namibia;215;1775;FEMALE
+Iona;Namibia;228;2300;MALE
+Iona;Namibia;216;1525;
+Iona;Namibia;215;2300;MALE
+Iona;Namibia;210;1500;FEMALE
+Iona;Namibia;219;2300;MALE
+Iona;Namibia;208;1375;FEMALE
+Iona;Namibia;209;2300;MALE
+Iona;Namibia;216;1800;FEMALE
+Iona;Namibia;229;2750;MALE
+Iona;Namibia;213;1450;FEMALE
+Iona;Namibia;230;2300;MALE
+Iona;Namibia;217;1175;FEMALE
+Iona;Namibia;230;2650;MALE
+Iona;Namibia;217;1675;
+Iona;Namibia;222;2800;MALE
+Iona;Namibia;214;1725;FEMALE
+Iona;Namibia;;;
+Iona;Namibia;215;1650;FEMALE
+Iona;Namibia;222;2550;MALE
+Iona;Namibia;212;2000;FEMALE
+Iona;Namibia;213;2200;MALE
